@@ -16,12 +16,13 @@ I analyzed the data to answer some questions
 1867 days
 
 3. What are the coldest and least coldest (warmest) months on Mars on average?
-Coldest month on average is Month 3
-The least coldest month on average is Month 8
+Coldest month on average is Month 3 at -83.30 degress celsius
+The least coldest month on average is Month 8 at -68.38 degrees celsius
+Temperature seasonal patterns seem to be somewhat similar to the northern hemisphere
 
 4.  What are the months on Mars with the highest and lowest athmospheric pressure?
-Highest Athmospheric pressure is Month 9
-Lowest Athmospheric pressure is Month 6
+Highest Athmospheric pressure is Month 9 at 913.30
+Lowest Athmospheric pressure is Month 6 at 745.05
 
 5. How many days approximately in a Martian year
 Peak to Peak estimate about 675 days
